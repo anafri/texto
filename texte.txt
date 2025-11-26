@@ -1,0 +1,13 @@
+
+#EXTM3U
+#EXTINF:-1
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-2
+https://appletree-mytimespain-rakuten.amagi.tv/1080p/index.m3u8
+#EXTINF:-3
+https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist_w1865685243.m3u8
+#EXTINF:-4
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-5
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
+
